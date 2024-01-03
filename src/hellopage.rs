@@ -20,7 +20,7 @@ impl Component for HelloComponent {
             <div class="container">
                 <h1> "Hello World - this is Wal" </h1>
                 <div  class="container">
-                    <p>"Check out Wal resources"</p>
+                    <p>"Check out Wal resources:"</p>
                     <a href="https://github.com/walrust/wal">"official GitHub repository"</a>
                     <a href="https://github.com/walrust/wal">"wal documentation"</a>
                 </div>
